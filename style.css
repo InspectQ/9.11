@@ -1,0 +1,19 @@
+.container {
+    color: rgb(21, 10, 238);
+}
+
+.card-body {
+    background-color: rgb(255, 255, 255);
+}
+
+.card-header, .card-footer {
+    background-color: rgb(233, 227, 194);
+}
+
+#generation.btn.btn-success {
+    margin-right: 30px;
+}
+
+#clear.btn.btn-danger {
+    margin-left: 30px;
+}
